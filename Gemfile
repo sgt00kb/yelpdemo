@@ -39,6 +39,7 @@ gem 'carrierwave', github:'carrierwaveuploader/carrierwave'
 gem "fog-aws"
 gem 'figaro'
 gem "mini_magick"
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
